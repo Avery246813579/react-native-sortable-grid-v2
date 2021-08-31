@@ -70,6 +70,10 @@ import SortableGrid from 'react-native-sortable-grid'
 
  -  ``` itemHeight ``` **Number**
 
+  If set, the height of each item. Defaults to itemWidth
+
+ -  ``` itemHeight ``` **Number**
+
   When used together with itemsPerRow, sets the size of a block to something other than the default square
 
  -  ``` dragActivationTreshold ``` **Number**
